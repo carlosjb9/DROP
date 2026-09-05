@@ -1,0 +1,80 @@
+[
+  {
+    "id": "G1-01-hook",
+    "carpeta": "G1-embudo",
+    "refs": [
+      "referencias/ref-arena.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nTHE MAN: Spanish, 52 years old, short salt-and-pepper hair, close-cropped grey beard, weathered friendly face, ordinary build. He is talking directly into the camera lens, mid-sentence, mouth open, engaged and relaxed. Framed from mid-chest up so both his face and his hands are in shot.\n\nSCENE: He is sitting on the edge of a bed in an ordinary sunlit Spanish bedroom, filming himself. In one raised hand he holds an old worn dark brown leather dress shoe with a narrow pointed toe, turning it towards the lens. His other foot is bare on the tiled floor, wide forefoot visible at the bottom of the frame. Warm morning light through a half-closed persiana blind. Phone on a low shelf, chest height."
+  },
+  {
+    "id": "G1-02-mecanismo",
+    "carpeta": "G1-embudo",
+    "refs": [
+      "referencias/ref-arena.png",
+      "G1-embudo/G1-01-hook.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nCHARACTER CONTINUITY IS CRITICAL: the man here is the SAME PERSON as in the attached reference photograph of a man — identical face, age, hair, beard and clothes. Copy them exactly.\n\nTHE SHOE (match the reference photograph exactly in silhouette, proportions and colour): a low-top canvas sneaker with a wide rounded toe box, six lace eyelets with flat cotton laces, a ribbed cream rubber cup sole with a stitched welt, and a woven heel pull-tab. The upper must be COMPLETELY PLAIN: no logo, no emblem, no lettering, and no black tag on the midsole. Colour: sand beige canvas with a cream rubber sole.\n\nSCENE: Same bedroom, camera lower and closer on the floor. His hands are sliding his bare foot into the sand-beige canvas sneaker in one easy motion, no shoehorn, the wide toe box opening as the foot goes in. The old narrow dress shoe lies discarded beside it for contrast. His face is partly in frame at the top, still talking to the lens. Natural side window light."
+  },
+  {
+    "id": "G1-03-cta",
+    "carpeta": "G1-embudo",
+    "refs": [
+      "referencias/ref-arena.png",
+      "G1-embudo/G1-01-hook.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nCHARACTER CONTINUITY IS CRITICAL: the man here is the SAME PERSON as in the attached reference photograph of a man — identical face, age, hair, beard and clothes. Copy them exactly.\n\nTHE SHOE (match the reference photograph exactly in silhouette, proportions and colour): a low-top canvas sneaker with a wide rounded toe box, six lace eyelets with flat cotton laces, a ribbed cream rubber cup sole with a stitched welt, and a woven heel pull-tab. The upper must be COMPLETELY PLAIN: no logo, no emblem, no lettering, and no black tag on the midsole. Colour: sand beige canvas with a cream rubber sole.\n\nSCENE: He is now standing in a bright Spanish hallway wearing dark chino trousers and the sand-beige canvas sneakers, holding the phone at arm's length, talking to the lens with a small satisfied shrug. The shoes are clearly visible at the bottom of the frame because the phone is held low, tilted up. Terrazzo floor, warm daylight from a doorway behind him."
+  },
+  {
+    "id": "G2-01-hook",
+    "carpeta": "G2-cordones",
+    "refs": [
+      "referencias/ref-gris.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nTHE MAN: Spanish, 52 years old, short salt-and-pepper hair, close-cropped grey beard, weathered friendly face, ordinary build. He is talking directly into the camera lens, mid-sentence, mouth open, engaged and relaxed. Framed from mid-chest up so both his face and his hands are in shot.\n\nSCENE: He is sitting at a small marble table on the terrace of an ordinary Spanish neighbourhood bar in the mid-afternoon, a cortado coffee beside him, wearing a plain dark t-shirt and jeans. He is leaning sideways and pointing down at his own foot, which is up on the chair rung: a dark leather work shoe whose laces are UNMISTAKABLY loose and completely untied, both lace ends trailing, the tongue pushed up. The loose laces are the sharpest thing in the frame. He talks to the lens with a knowing look."
+  },
+  {
+    "id": "G2-02-mecanismo",
+    "carpeta": "G2-cordones",
+    "refs": [
+      "referencias/ref-gris.png",
+      "G2-cordones/G2-01-hook.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nCHARACTER CONTINUITY IS CRITICAL: the man here is the SAME PERSON as in the attached reference photograph of a man — identical face, age, hair, beard and clothes. Copy them exactly.\n\nTHE SHOE (match the reference photograph exactly in silhouette, proportions and colour): a low-top canvas sneaker with a wide rounded toe box, six lace eyelets with flat cotton laces, a ribbed cream rubber cup sole with a stitched welt, and a woven heel pull-tab. The upper must be COMPLETELY PLAIN: no logo, no emblem, no lettering, and no black tag on the midsole. Colour: mid grey canvas with a grey rubber sole.\n\nSCENE: Same man at the same table, now holding the grey canvas sneaker up close to the lens in both hands and pulling its sides apart to show how far the canvas gives, the wide toe box flexing open. His face is behind the shoe, in frame, talking. Warm afternoon light on the terrace."
+  },
+  {
+    "id": "G2-03-cta",
+    "carpeta": "G2-cordones",
+    "refs": [
+      "referencias/ref-gris.png",
+      "G2-cordones/G2-01-hook.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nCHARACTER CONTINUITY IS CRITICAL: the man here is the SAME PERSON as in the attached reference photograph of a man — identical face, age, hair, beard and clothes. Copy them exactly.\n\nTHE SHOE (match the reference photograph exactly in silhouette, proportions and colour): a low-top canvas sneaker with a wide rounded toe box, six lace eyelets with flat cotton laces, a ribbed cream rubber cup sole with a stitched welt, and a woven heel pull-tab. The upper must be COMPLETELY PLAIN: no logo, no emblem, no lettering, and no black tag on the midsole. Colour: mid grey canvas with a grey rubber sole.\n\nSCENE: Same man walking along a Spanish city pavement in the grey canvas sneakers and dark jeans, holding the phone low in front of him and slightly down so that his feet and the shoes fill the bottom third of the frame while his face is at the top, talking to the lens as he walks. Café terrace chairs blurred behind, late golden afternoon light, slight walking bounce."
+  },
+  {
+    "id": "G3-01-hook",
+    "carpeta": "G3-descalzarse",
+    "refs": [
+      "referencias/ref-negro.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nTHE MAN: Spanish, 52 years old, short salt-and-pepper hair, close-cropped grey beard, weathered friendly face, ordinary build. He is talking directly into the camera lens, mid-sentence, mouth open, engaged and relaxed. Framed from mid-chest up so both his face and his hands are in shot.\n\nSCENE: He is standing on the doormat in the entrance hall of someone else's Spanish flat, still in his shoes, wearing a pressed light blue shirt. He films himself quietly, half-whispering to the lens with a wry, self-conscious expression, glancing down at his own leather shoes. Behind him a half-open door and the blur of a family lunch at a table. Warm indoor light, family photos on the wall."
+  },
+  {
+    "id": "G3-02-mecanismo",
+    "carpeta": "G3-descalzarse",
+    "refs": [
+      "referencias/ref-negro.png",
+      "G3-descalzarse/G3-01-hook.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nCHARACTER CONTINUITY IS CRITICAL: the man here is the SAME PERSON as in the attached reference photograph of a man — identical face, age, hair, beard and clothes. Copy them exactly.\n\nTHE SHOE (match the reference photograph exactly in silhouette, proportions and colour): a low-top canvas sneaker with a wide rounded toe box, six lace eyelets with flat cotton laces, a ribbed cream rubber cup sole with a stitched welt, and a woven heel pull-tab. The upper must be COMPLETELY PLAIN: no logo, no emblem, no lettering, and no black tag on the midsole. Colour: black canvas with a cream rubber sole.\n\nSCENE: Same hallway. He holds the black canvas sneaker up against a bright window right next to the lens, strongly backlit, so the open weave of the canvas glows against the light and the individual threads catch the sun. His face is beside the shoe, in frame, talking to the lens. High contrast rim light."
+  },
+  {
+    "id": "G3-03-cta",
+    "carpeta": "G3-descalzarse",
+    "refs": [
+      "referencias/ref-negro.png",
+      "G3-descalzarse/G3-01-hook.png"
+    ],
+    "prompt": "Vertical 9:16 format. Authentic UGC selfie-style video frame, shot on an iPhone, natural available light, the subject looking straight down the lens, single continuous locked-off shot, realistic skin texture and fabric grain, no beauty retouching, ordinary Spanish home or street, warm neutral palette. Photorealistic. This must look like a real person filming themselves, NOT an advertisement and NOT a studio product shot. ABSOLUTELY NO TEXT of any kind in the image: no letters, no numbers, no captions, no subtitles, no watermarks, no logos, no brand marks, no UI overlays. No extra fingers, no distorted feet, no CGI look.\n\nCHARACTER CONTINUITY IS CRITICAL: the man here is the SAME PERSON as in the attached reference photograph of a man — identical face, age, hair, beard and clothes. Copy them exactly.\n\nTHE SHOE (match the reference photograph exactly in silhouette, proportions and colour): a low-top canvas sneaker with a wide rounded toe box, six lace eyelets with flat cotton laces, a ribbed cream rubber cup sole with a stitched welt, and a woven heel pull-tab. The upper must be COMPLETELY PLAIN: no logo, no emblem, no lettering, and no black tag on the midsole. Colour: black canvas with a cream rubber sole.\n\nSCENE: Same hallway a moment later. He is now in socks, crouching down and setting the pair of black canvas sneakers neatly beside the doormat, looking up at the lens with an easy smile as he does it. The shoes are sharp in the foreground, the family lunch warm and blurred behind him. Phone held low."
+  }
+]
